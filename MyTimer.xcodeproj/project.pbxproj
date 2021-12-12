@@ -11,6 +11,7 @@
 		3062EFEC2766A2A00020AE92 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3062EFEB2766A2A00020AE92 /* ContentView.swift */; };
 		3062EFEE2766A2A10020AE92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3062EFED2766A2A10020AE92 /* Assets.xcassets */; };
 		3062EFF12766A2A10020AE92 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3062EFF02766A2A10020AE92 /* Preview Assets.xcassets */; };
+		3062EFF82766A30F0020AE92 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3062EFF72766A30F0020AE92 /* SettingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3062EFEB2766A2A00020AE92 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3062EFED2766A2A10020AE92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3062EFF02766A2A10020AE92 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3062EFF72766A30F0020AE92 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3062EFE92766A2A00020AE92 /* MyTimerApp.swift */,
 				3062EFEB2766A2A00020AE92 /* ContentView.swift */,
+				3062EFF72766A30F0020AE92 /* SettingView.swift */,
 				3062EFED2766A2A10020AE92 /* Assets.xcassets */,
 				3062EFEF2766A2A10020AE92 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3062EFF82766A30F0020AE92 /* SettingView.swift in Sources */,
 				3062EFEC2766A2A00020AE92 /* ContentView.swift in Sources */,
 				3062EFEA2766A2A00020AE92 /* MyTimerApp.swift in Sources */,
 			);
